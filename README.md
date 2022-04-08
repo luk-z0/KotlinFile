@@ -1,2 +1,2 @@
 # KotlinFile
-Informações absolvidas e, Kotlin
+Informações absolvidas em Kotlin
